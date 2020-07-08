@@ -1,1 +1,4 @@
-# surf_up
+# Surf Up
+
+## Findings and Analysis
+The weather in June is less variable; the mean temperature is around 77.2 and the standard deviation 2.63. Moreover, this month has a relatively small mm of precipitation as the mean in 0.12, however the median is 0.02, this indicates a skew to the right. On the other hand, we see lower temperatures in December, mean is 71.13 fahrenheit and a larger variability as the standard deviation is 3.41. There is a similar distribution with precipitations in December; the mean is 0.199 mm and the median is at 0.06 evidencing the data is skewed to the right. There are lower temperatures and greater precipitation in December; however there is not a huge difference between the two months analyzed; only about 5 degrees Fahrenheit and 0.07 mm of precipitation. In further analysis, I would recommend to explore possible associations between the precipitation and temperature with a scatter plot. Finally there are other important variables like cloudiness and humidity that could be included in the weather analysis; also comparing all the measures to zones with successful surfing shops to predict revenue based on weather conditions. 
